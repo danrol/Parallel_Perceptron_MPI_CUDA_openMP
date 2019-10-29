@@ -1,7 +1,3 @@
-
-
-
-
 Parallel Implementation of Perceptron (Binary Classification) Algorithm
 Using MPI + CUDA + OPENMP
 
